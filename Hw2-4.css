@@ -1,0 +1,55 @@
+.container1 {
+  width: 550px;
+}
+
+.container1 h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  width: 400px;
+  line-height: 40px;
+}
+
+.container1 p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  color: gray;
+  letter-spacing: 0.3px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.container1 h1 span {
+  color: rgb(70, 85, 255);
+}
+
+svg {
+  width: 50px;
+  height: 50px;
+}
+
+div h2.heading {
+  position: relative;
+  bottom: 65px;
+  left: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+.container2 {
+  width: 430px;
+  height: 120px;
+}
+
+div p.text {
+  position: relative;
+  bottom: 70px;
+  left: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  color: gray;
+  letter-spacing: 0.3px;
+  line-height: 25px;
+}

@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+}
+
+div {
+  background-color: rgb(7, 61, 97);
+}
+
+.big {
+  width: 600px;
+  padding: 30px;
+}
+
+.container h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+.container p:last-of-type {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -7px;
+  line-height: 25px;
+  font-size: 17px;
+}
+
+.container p:first-of-type {
+  position: relative;
+  left: 240px;
+  font-size: 12px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100px;
+  border-radius: 20px;
+  border: 0px transparent;
+  background-color: rgb(33, 72, 97);
+  padding: 7px;
+}
+
+.button-container button {
+  margin-top: 30px;
+  padding: 15px;
+  width: 120px;
+  border-radius: 6px;
+  border: 0px transparent;
+  background-color: rgb(45, 197, 139);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}

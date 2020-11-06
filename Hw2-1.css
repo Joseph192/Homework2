@@ -1,0 +1,37 @@
+div {
+  width: 300px;
+}
+
+h1 {
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  color: gray;
+  line-height: 23px;
+  margin-top: 0;
+}
+
+svg {
+  width: 40px;
+  height: 40px;
+}
+
+.container2 {
+  position: relative;
+  bottom: 177.5px;
+  left: 350px;
+}
+
+.container3 {
+  position: relative;
+  bottom: 355px;
+  left: 700px;
+}
